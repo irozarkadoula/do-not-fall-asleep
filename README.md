@@ -14,5 +14,8 @@ An openCV project that implements an algorithm that detects driver's state state
 # Implementation
 Implemented using OpenCV in Python
 
+# Requirements
+https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
+
 # Contributor
 github.com/spiroskatsampiris

@@ -17,5 +17,5 @@ Implemented using OpenCV in Python
 # Requirements
 https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
 
-# Contributor
+# Contribution
 github.com/spiroskatsampiris

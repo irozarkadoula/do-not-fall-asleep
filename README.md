@@ -1,6 +1,6 @@
 # Do-not-fall-asleep
 
-An openCV project that implements an algorithm that detects driver's state state of drowsiness by analyzing the image captured by video camera and notifies him if he is sleepy.
+A project that implements an algorithm that detects driver's state state of drowsiness by analyzing the image captured by video camera and notifies him if he is sleepy.
 
 # Stages
 - Live image acquisition
